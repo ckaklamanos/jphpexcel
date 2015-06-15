@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="2.5">
+	<name>Joomla! PHPexcel library</name>
+	<libraryname>jphpexcel</libraryname>
+	<author>Haris Kaklamanos</author>
+	<creationDate>June 2015</creationDate>
+	<copyright>Copyright (C) 2015</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@yesinternet.gr</authorEmail>
+	<authorUrl>www.yesinternet.gr</authorUrl>
+	<version>1.0</version>
+	<description>Based on PHPexcelThe, this is the library you need to manipulate excel files in Joomla.</description>
+
+	<files>
+		<folder>Classes</folder>
+	</files>
+</extension>
